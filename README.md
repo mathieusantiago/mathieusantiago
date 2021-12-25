@@ -12,8 +12,7 @@
 
 
 
-[![Website](https://img.shields.io/badge/My%20Website%20-bouzid--krita.com-&?style=for-the-badge&logo=google&color=black)](https://bouzid-krita.com)
-[![Website](https://img.shields.io/badge/Follow%20%40BOUBOUDEV--&?style=for-the-badge&logo=codepen)](https://codepen.io/bouboudev)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/boubou_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fboubou_dev&screen_name=boubou_dev)
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bouzidkrita&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbouzidkrita%2F)](https://www.linkedin.com/in/bouzidkrita/)
 
