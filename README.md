@@ -10,9 +10,8 @@
 
 ### Connect with me:
 
-
-[![LinkedIn](https://www.linkedin.com/in/mathieu-santiago-745b48185/)
-
+[![Website](https://img.shields.io/badge/http://santiagodevweb.com/-&?style=for-the-badge&logo=google&color=black)](http://santiagodevweb.com/)
+[![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=https://www.linkedin.com/in/mathieu-santiago-745b48185/&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mathieu-santiago-745b48185/)](https://www.linkedin.com/in/mathieu-santiago-745b48185/)
 
 
 <br />
