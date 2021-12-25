@@ -57,20 +57,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouboudev&layout=compact&theme=radical)](https://github.com/bouboudev/github-readme-stats)
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bouboudev&theme=radical">
 
-<!--START_SECTION:waka-->
-```text
-HTML         1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.06 % 
-CSS          42 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.96 % 
-Python       36 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.22 % 
-JavaScript   28 mins         ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.00 % 
-Markdown     4 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.33 % 
-```
-<!--END_SECTION:waka-->
 
----
-
-![](https://visitor-badge.glitch.me/badge?page_id=bouboudev.bouboudev)
-
-[website]: https://bouzid-krita.com
-[twitter]: https://twitter.com/Boubou_dev
-[linkedin]: https://www.linkedin.com/in/bouzidkrita/
