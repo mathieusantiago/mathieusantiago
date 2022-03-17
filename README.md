@@ -25,5 +25,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Fig;q](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)
 <br />
+<br />
 
+### GitHub Stats
 
+![GHstats](https://github-readme-stats.vercel.app/api?username=mathieusantiago&show_icons=true)
