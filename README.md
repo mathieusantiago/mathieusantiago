@@ -34,6 +34,4 @@
 
 ### This week I spent my time on
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mathieusantiago&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=777)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=777&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
