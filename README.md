@@ -31,5 +31,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathieusantiago&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
