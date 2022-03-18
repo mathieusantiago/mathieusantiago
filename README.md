@@ -34,4 +34,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathieusantiago&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
