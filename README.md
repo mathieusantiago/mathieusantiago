@@ -31,8 +31,9 @@
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathieusantiago&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![mathieusantiago GitHub Streak](https://streak-stats.demolab.com?user=mathieusantiago&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathieusantiago&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
