@@ -5,7 +5,7 @@
 ## I'm a Full stack Developer based in Montpellier !
 
 - 🤝🏻 I’m looking to collaborate with other developper
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love the metavers 
 ### Connect with me:
 
